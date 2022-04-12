@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" alt="Cypress logo"></a>
+  <a href="https://www.cypress.io"><img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"/></a>
 </p>
 
 <h3 align="center">DT Money - Cypress</h3>
@@ -17,7 +16,7 @@
 
 ---
 
-<p align="center"> 🤖 Projeto usando Cypress para testar o app [DT Money](https://github.com/diegoaraujo85/ignite-react-dtmoney)
+<p align="center"> 🤖 Projeto usando Cypress para testar o app <a href="https://github.com/diegoaraujo85/ignite-react-dtmoney">dtmoney</a>
     <br> 
 </p>
 
@@ -35,7 +34,7 @@ Projeto desenvolvido em Node.js, usando cypress.
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-![Working](./.github/dt-money.spec.js.mp4)
+![Working](https://github.com/diegoaraujo85/cypress-dt-money/blob/master/.github/dt-money.spec.js.mp4)
 
 ## 💭 How it works <a name = "working"></a>
 
@@ -57,5 +56,5 @@ npx cypress run
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Node.js](https://nodejs.org/) - Python Reddit API Wrapper
+- [Node.js](https://nodejs.org/)
 - [Cypress](https://www.cypress.io)
