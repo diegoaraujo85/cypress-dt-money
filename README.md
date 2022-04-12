@@ -34,7 +34,7 @@ Projeto desenvolvido em Node.js, usando cypress.
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-![Working](https://github.com/diegoaraujo85/cypress-dt-money/blob/master/.github/dt-money.spec.js.mp4)
+![Working](https://github.com/diegoaraujo85/cypress-dt-money/blob/master/.github/dt-money.spec.js.gif)
 
 ## 💭 How it works <a name = "working"></a>
 
